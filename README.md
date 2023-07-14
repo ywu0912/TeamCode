@@ -1,4 +1,4 @@
-# TeamCode
+# TEVC_2022_DHQ
 Description: 
 1. Description of running environment: 
 The packaged executable is done with the help of MATLAB Compiler, so the user needs to download Runtime. 
